@@ -2,7 +2,10 @@ package
 {
 	import control.DataSys;
 	import control.SceneManager;
-	import ui.MainviewUI;
+
+import laya.display.Sprite;
+
+import ui.MainviewUI;
 	import laya.events.Event;
 	import laya.utils.Ease; 
     import laya.utils.Tween;
@@ -22,7 +25,7 @@ package
 		public  var phoneSetting:Object = {"shake":true, "music":true, "sound":true};//游戏用户设定
 		public  var wxuserInfo:Object;//从微信云端获取的个人信息
 
-		private var myTestA:Function;//onmyTest
+        private var asd:Sprite=new Sprite();
 
 		public function Gameview() 
 		{

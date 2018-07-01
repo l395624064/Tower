@@ -81,11 +81,7 @@ import view.TestView;
             Laya.stage.addChild(sp);
         }
 
-        private function myTestB():void
-        {
-            var myTestPoint:Point=new Point();
-            myTestPoint.distance(0,0);
-        }
+        
 
         private function myTestC():void
         {
