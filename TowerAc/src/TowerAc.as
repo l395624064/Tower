@@ -78,7 +78,13 @@ import laya.net.Loader;
             sp.graphics.drawCircle(0,0,10,"#f6e6ff");
             Laya.stage.addChild(sp);
         }
-		 
+
+        private function myTestB():void
+        {
+            var myTestPoint:Point=new Point();
+            myTestPoint.distance(0,0);
+        }
+
 
 	}
 
