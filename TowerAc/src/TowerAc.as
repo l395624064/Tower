@@ -4,7 +4,9 @@ package
 	import control.GameControl;
 	import control.KeyBoardManager;
 	import control.SceneManager;
-	import laya.net.Loader;
+
+import laya.maths.Point;
+import laya.net.Loader;
 	import laya.net.ResourceVersion;
 	import laya.utils.Handler;
 	import view.TestView;
@@ -69,7 +71,11 @@ package
 			GameControl.Instance.Init();
 			 DataSys.Instance.PlayGlobalMusic();
 		} 
-	 
+
+        private function myTestA():void
+        {
+
+        }
 		 
 		 
 	}
