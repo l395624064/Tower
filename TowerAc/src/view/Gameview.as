@@ -21,7 +21,9 @@ package
 		public  var systemInfo:Object;//S端功能信息列表
 		public  var phoneSetting:Object = {"shake":true, "music":true, "sound":true};//游戏用户设定
 		public  var wxuserInfo:Object;//从微信云端获取的个人信息
-		
+
+		private var myTestA:Function;//onmyTest
+
 		public function Gameview() 
 		{
 			
