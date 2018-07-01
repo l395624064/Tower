@@ -9,7 +9,9 @@ import laya.maths.Point;
 import laya.net.Loader;
 	import laya.net.ResourceVersion;
 	import laya.utils.Handler;
-	import view.TestView;
+import laya.webgl.shader.Shader;
+
+import view.TestView;
 	import laya.webgl.WebGL;
 	import laya.display.Sprite;
 	import laya.display.Stage;
@@ -83,6 +85,12 @@ import laya.net.Loader;
         {
             var myTestPoint:Point=new Point();
             myTestPoint.distance(0,0);
+        }
+
+        private function myTestC():void
+        {
+            var shared:Shader=new Shader();
+            shared._id=15;
         }
 
 
