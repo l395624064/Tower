@@ -1,0 +1,21 @@
+"openDataContext": "src/myOpenDataContext",
+game.js 修改成 index.js
+
+外网引擎1.7.17版本在使用开发数据域的时候存在bug，下个版本修复，临时修复方案：
+在 laya.core.js文件里，搜索 var Texture关键字，可以找到bitmap._addReference关键字，改成下面：
+if(bitmap&& bitmap._addReference)
+   bitmap._addReference();
+
+显示不全的问题，主域里重设sharedCanvas:
+Browser.window.sharedCanvas.width = Laya.stage.width;
+
+Browser.window.sharedCanvas.height = Laya.stage.height;
+
+pu01@weixinpu.cn
+haochuangkeji01
+
+appid:wx736f9c853c81bdb6
+
+appsecret:197a36a827399b5d8874c47e7e873b4b
+
+

@@ -1,0 +1,29 @@
+1,0.00,,0,Project command:d:\laya\TowerAc/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:d:\laya\TowerAc/.actionScriptProperties.
+1,0.00,,0,output path:d:/laya/TowerAc/bin/h5/
+1,0.00,,0,Main Class:d:/laya/TowerAc/src/TowerAc.as
+1,0.00,,0,output file:TowerAc
+1,0.00,,0,compilerSourcePath d:/laya/TowerAc/libs/laya/src/
+
+1,0.00,,0,Compile Path:d:/laya/TowerAc/src/
+
+1,0.00,,0,Compile Path:d:/laya/TowerAc/libs/laya/src/
+
+1,0.00,d:/laya/TowerAc/src,0,Collect
+1,0.00,d:/laya/TowerAc/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,459,itemSp This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,460,itemSp.size This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,462,itemSp.pos This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,470,itemSp.addChild This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,477,itemSp.addChild This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,490,itemSp.addChild This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,498,itemSp.addChild This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,500,itemSp.addChild This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,502,itemSp This variable is not defined.
+7,51.09,d:/laya/TowerAc/src/WX_Tool.as,503,itemSp This variable is not defined.
+1,89.69,,0,Disable Flash3D d:/laya/TowerAc/src/TowerAc.as
+12,89.69,d:/laya/TowerAc/bin/h5/TowerAc.max.js,1340695,
+11,89.69,d:/laya/TowerAc/bin/h5/TowerAc.max.html,890,
+******************************************************************************
+14,89.69,,0,
