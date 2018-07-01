@@ -74,10 +74,12 @@ import laya.net.Loader;
 
         private function myTestA():void
         {
-
+            var sp:Sprite=new Sprite();
+            sp.graphics.drawCircle(0,0,10,"#f6e6ff");
+            Laya.stage.addChild(sp);
         }
 		 
-		 
+
 	}
 
 }
