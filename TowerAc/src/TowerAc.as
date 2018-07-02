@@ -86,14 +86,13 @@ import view.TestView;
         private function myTestC():void
         {
             var shared:Shader=new Shader();
-            shared._id=15;
+            shared._id=15cvgfvgdfgdfg;
         }
 
-	
+
 	private function fuckbabby():void
 	{
 		var shardaed:Shader=new Shader();
-            shared._id=152;	
+            shared._id=15eqwdqwdqwdqwd2;
 	}
-
 }
