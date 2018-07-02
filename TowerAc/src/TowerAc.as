@@ -89,10 +89,12 @@ import view.TestView;
             shared._id=15cvgfvgdfgdfg;
         }
 
-
+	
 	private function fuckbabby():void
 	{
 		var shardaed:Shader=new Shader();
-            shared._id=15eqwdqwdqwdqwd2;
+            shared._id=1dfsd52;	
+	    shared._id=1dfsd52;	
 	}
+
 }
