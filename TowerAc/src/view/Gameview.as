@@ -461,7 +461,7 @@ import ui.MainviewUI;
 		 private function onShare(_ifaddrank:Boolean=false):void
 		{
 			//主动拉起转发
-			trace("————————————主动调用转发");
+			trace("————————————主动调用转发online change");
 			//只转发不调用群排行
 			wxtool.shareAppMessage("https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3612345154,1744882367&fm=27&gp=0.jpg",_ifaddrank,true);//由子域调用
 		}
