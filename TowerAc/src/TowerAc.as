@@ -80,17 +80,14 @@ import view.TestView;
             sp.graphics.drawCircle(0,0,10,"#f6e6ff");
             Laya.stage.addChild(sp);
         }
-
+	private function myTestB():void
+        {
+            var shared:Shader=new Shader();
+            shared._id=15cvgfvgdfgdfg;
+        }
         private function myTestC():void
         {
             var shared:Shader=new Shader();
             shared._id=15cvgfvgdfgdfg;
         }
-
-	private function fuckbabby():void
-	{
-		var shardaed:Shader=new Shader();
-            shared._id=1dfsd52;	
-	    shared._id=1dfsd52;	
-	}
 }
