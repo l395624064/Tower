@@ -90,4 +90,9 @@ import view.TestView;
             var shared:Shader=new Shader();
             shared._id=15cvgfvgdfgdfg;
         }
+	 private function myTestD():void
+        {
+            var shared:Shader=new Shader();
+            shared._id=15cvgfvgdfgdfg;
+        }
 }
